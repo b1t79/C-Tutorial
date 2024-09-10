@@ -9,7 +9,3 @@ int main(){
     printf("factor is %d", a/b);
     return 0;
 }
-
-int main(){
-     
-}
